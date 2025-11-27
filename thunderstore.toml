@@ -4,7 +4,7 @@ schemaVersion = "0.0.1"
 [package]
 namespace = "Sparroh"
 name = "Encyclopedia"
-description = "Adds a button in the menu to open a window full of upgrades to see."
+description = "A comprehensive encyclopedia system for MycoPunk that provides a complete browser for viewing all upgrades in the game, organized by category. Features include character skill trees, gear modifications, weapon stats, resources, enemies database, and rich tooltips with detailed information."
 websiteUrl = "https://github.com/Little-Sparroh/Encyclopedia"
 containsNsfwContent = false
 
@@ -34,5 +34,3 @@ communities = [ "mycopunk" ]
 
 [publish.categories]
 mycopunk = [ "client" ]
-
-

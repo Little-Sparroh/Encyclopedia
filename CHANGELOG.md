@@ -1,5 +1,19 @@
 # Changelog
 
+## 1.1.0 (2025-11-26)
+
+### Features
+* Added Weapons Stats panel showing weapon details and base stats
+* Added Resources panel displaying collectible resources and items
+* Added Enemies database panel with enemy types and combat information
+* Added Missions panel (placeholder for future mission tracking)
+
+### Improvements
+* Enhanced icon rendering for weapon cards using reflection
+* Code cleanup and comment removal for release
+* Comprehensive enemy information with spawn conditions
+* Resource tracking with capacity and collection counts
+
 ## 1.0.0 (2025-10-16)
 
 ### Features
